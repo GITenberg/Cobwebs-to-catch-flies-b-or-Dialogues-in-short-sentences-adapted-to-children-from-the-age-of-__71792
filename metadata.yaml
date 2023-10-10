@@ -1,0 +1,39 @@
+_repo: Cobwebs-to-catch-flies-b-or-Dialogues-in-short-sentences-adapted-to-children-from-the-age-of-__71792
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lovechild, Mrs.
+    aliases:
+    - Fenn, Ellenor
+    - Teachwell, Mrs.
+    birthdate: 1744
+    deathdate: 1813
+    gutenberg_agent_id: '56400'
+    url: http://www.gutenberg.org/2009/agents/56400
+    wikipedia: https://en.wikipedia.org/wiki/Ellenor_Fenn
+description: ''
+gutenberg_issued: '2023-10-03'
+identifiers:
+  gutenberg: '71792'
+language: en
+pgterms:marc904: https://ufdc.ufl.edu/UF00003577/00001/citation
+pgterms:marc905: 20230713111940fenn
+pgterms:marc906: '1851'
+pgterms:marc907: us
+production_note: Bob Taylor, Aaron Adrignola and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the University of Florida Digital Collections.)
+publication_note: '  $aNew York :$bC. S. Francis & Co., $c1851.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Juvenile literature'
+- !lcsh 'Readers (Primary)'
+- !lcsh 'Dialogues'
+- !lcsh 'Children -- Conduct of life -- Juvenile literature'
+- !lcc 'PE'
+- GITenberg
+title: 'Cobwebs to catch flies : $b or, Dialogues in short sentences adapted to children
+  from the age of three to eight years'
+url: http://www.gutenberg.org/ebooks/71792
