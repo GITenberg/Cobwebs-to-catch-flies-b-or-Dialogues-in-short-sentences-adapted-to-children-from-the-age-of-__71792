@@ -1,5 +1,8 @@
 _repo: Cobwebs-to-catch-flies-b-or-Dialogues-in-short-sentences-adapted-to-children-from-the-age-of-__71792
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71792-h/images/cover.jpg
 creator:
   author:
     agent_name: Lovechild, Mrs.
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56400
     wikipedia: https://en.wikipedia.org/wiki/Ellenor_Fenn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71792#Cobwebs-to-catch-flies-b-or-Dialogues-in-short-sentences-adapted-to-children-from-the-age-of-_
 gutenberg_issued: '2023-10-03'
 identifiers:
   gutenberg: '71792'
